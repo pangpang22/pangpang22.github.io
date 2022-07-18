@@ -20,16 +20,16 @@ avatar: http://static1.squarespace.com/static/5c9965af078d100001b45411/5d8e9fc3d
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: Home
+  - name: 글
     url: /
-  - name: About
+  - name: 소개
     url: /about
-  - name: Archive
+  - name: 아카이브
     url: /archive
-  - name: Tags
+  - name: 태그
     url: /tags
-  - name: Theme
-    url: https://pangpang22.github.io/
+  - name: 테마
+    url: https://www.mingslife.co.kr/README.ko/
 
 # Pagination
 paginate: 5
