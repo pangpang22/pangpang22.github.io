@@ -5,7 +5,17 @@ permalink: /about/
 use_math: true
 ---
 
-###前史
+### 소개
+
+국립부경대학교 컴퓨터공학과 재학.
+선형 대수학, 추상 대수학, 현대 물리학, 양자 컴퓨팅, 이론 전산학, 컴퓨터 과학 전반.
+취미는 기술 번역.
+
+> 제게 시(詩)를 줄 수 없다면
+> 시적 과학(poetic sicence)을 주시오.
+> - 에이다 러브레이스
+
+### 前史
 
 한국예술종합학교 영상이론과 예술사 과정 중퇴.
 김태원, 허애리, 장유비, 고유재 등의 이름으로 한국예술종합학교 신문사 기자 활동.
@@ -29,7 +39,6 @@ use_math: true
 - 「[반면교사!](https://ma-te-ri-al.online/19715640)」(2019)
 - 「[정면교사?](https://ma-te-ri-al.online/19715649)」(2019)
 
-
-### Contact me
+### 연락처
 
 [jijisusu0401@pukyong.ac.kr](mailto:jijisusu0401@pukyong.ac.kr)
