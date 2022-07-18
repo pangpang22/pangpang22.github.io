@@ -1,12 +1,9 @@
 ---
 layout: page
-title: About
+title: 소개
 permalink: /about/
 use_math: true
 ---
-
-### 소개
-
 국립부경대학교 컴퓨터공학과 재학.
 선형 대수학, 추상 대수학, 현대 물리학, 양자 컴퓨팅, 이론 전산학, 컴퓨터 과학 전반.
 취미는 기술 번역.
