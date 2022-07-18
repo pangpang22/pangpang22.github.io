@@ -6,21 +6,21 @@
 name: pangpang22
 
 # Short bio or description (displayed in the header)
-description: Pukyong National University Division of Computer Engineering
+description: ?ber Gewissheit
 
 #
 # Flags below are optional
 #
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://upload.wikimedia.org/wikipedia/commons/0/0b/Ada_Byron_daguerreotype_by_Antoine_Claudet_1843_or_1850.jpg
+avatar: https://pbs.twimg.com/media/B7zBMRSIYAA53sD.jpg
 
 
 # Tabs in header. There are 'Blog', 'About', 'Archive', 'Tags'
 # and URL Link(e.g. 'Theme' tab below) tabs. If you don't need one, just delete
 # it from the list(Delete '- name: ' and 'url: ', too!)
 navigation:
-  - name: pangpang22
+  - name: Home
     url: /
   - name: About
     url: /about
