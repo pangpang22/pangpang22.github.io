@@ -19,7 +19,7 @@ Some information about you!
 - 「외화면은 외화될 수 있는가?: 유아론과 정동」
 - 「메츠와 바쟁은 어떻게 비교될 수 있는가?: 계열체 개념의 집합론적 함의를 중심으로」
 - 「"Surviving Desire"(1991)와 데카르트적 심신이원론」
-2018년 12월 29일 문화역서울284 RTO "프로젝션 플랫폼 플랫폼" 오디오비주얼 작품 상영 행사 "블라블라블라인드"에서 "Nebenst?ck 2018" 상영.
+2018년 12월 29일 문화역서울284 RTO "프로젝션 플랫폼 플랫폼" 오디오비주얼 작품 상영 행사 "블라블라블라인드"에서 "Nebenstuck 2018" 상영.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/298927385?h=664055076d&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
