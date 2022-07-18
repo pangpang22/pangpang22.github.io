@@ -4,29 +4,29 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-ÇÑ±¹¿¹¼úÁ¾ÇÕÇÐ±³ ¿µ»óÀÌ·Ð°ú ¿¹¼ú»ç °úÁ¤ ÁßÅð.
-±èÅÂ¿ø, Çã¾Ö¸®, ÀåÀ¯ºñ, °íÀ¯Àç µîÀÇ ÀÌ¸§À¸·Î ÇÑ±¹¿¹¼úÁ¾ÇÕÇÐ±³ ½Å¹®»ç ±âÀÚ È°µ¿.
-- ¡¸[»ç¿ëÀÚ ÀÎÅÍÆäÀÌ½º ¾ÈÆÆÀÇ ÀÌ¹ÌÁöµé](http://news.karts.ac.kr/?p=5561)¡¹(2018, ±èÅÂ¿ø)
-- ¡¸[2010³â´ëÀÇ Ç³°æ(2) À¯Æ©ºê ¿úÈ¦](http://news.karts.ac.kr/?p=7250)¡¹(2019, Çã¾Ö¸®)
-- ¡¸[Áý$$neq$$¼¼°è](http://news.karts.ac.kr/?p=8081)¡¹(2020, ÀåÀ¯ºñ)
-- ¡¸["¸ù»ó°ú Âø¶õ"](http://news.karts.ac.kr/?p=8148)¡¹(2020, °íÀ¯Àç)
-- ¿Ü ´Ù¼öÀÇ ¹®È­ ¹× ¸ÅÃ¼ °ü·Ã ¿¡¼¼ÀÌ ÀÛ¼º.
-ÀçÇÐ Áß¿¡´Â ¿µÈ­ ¹× ¸ÅÃ¼¿¡ ÀÇÇÑ °¨°¢ °æÇèÀÇ ¼±ÇèÀû Á¶°Ç°ú 1930-40³â´ë ¹Ì±¹¿µÈ­»ç¸¦ Áß½ÉÀûÀ¸·Î Å½±¸.
-- ¡¸¿ÜÈ­¸éÀº ¿ÜÈ­µÉ ¼ö ÀÖ´Â°¡?: À¯¾Æ·Ð°ú Á¤µ¿¡¹
-- ¡¸¸ÞÃ÷¿Í ¹ÙÀïÀº ¾î¶»°Ô ºñ±³µÉ ¼ö ÀÖ´Â°¡?: °è¿­Ã¼ °³³äÀÇ ÁýÇÕ·ÐÀû ÇÔÀÇ¸¦ Áß½ÉÀ¸·Î¡¹
-- ¡¸"Surviving Desire"(1991)¿Í µ¥Ä«¸£Æ®Àû ½É½ÅÀÌ¿ø·Ð¡¹
-2018³â 12¿ù 29ÀÏ ¹®È­¿ª¼­¿ï284 RTO "ÇÁ·ÎÁ§¼Ç ÇÃ·§Æû ÇÃ·§Æû" ¿Àµð¿ÀºñÁÖ¾ó ÀÛÇ° »ó¿µ Çà»ç "ºí¶óºí¶óºí¶óÀÎµå"¿¡¼­ "Nebenstuck 2018" »ó¿µ.
+Some information about you!
+
+í•œêµ­ì˜ˆìˆ ì¢…í•©í•™êµ ì˜ìƒì´ë¡ ê³¼ ì˜ˆìˆ ì‚¬ ê³¼ì • ì¤‘í‡´.
+ê¹€íƒœì›, í—ˆì• ë¦¬, ìž¥ìœ ë¹„, ê³ ìœ ìž¬ ë“±ì˜ ì´ë¦„ìœ¼ë¡œ í•œêµ­ì˜ˆìˆ ì¢…í•©í•™êµ ì‹ ë¬¸ì‚¬ ê¸°ìž í™œë™.
+- ã€Œ[ì‚¬ìš©ìž ì¸í„°íŽ˜ì´ìŠ¤ ì•ˆíŒŽì˜ ì´ë¯¸ì§€ë“¤](http://news.karts.ac.kr/?p=5561)ã€(2018, ê¹€íƒœì›)
+- ã€Œ[2010ë…„ëŒ€ì˜ í’ê²½(2) ìœ íŠœë¸Œ ì›œí™€](http://news.karts.ac.kr/?p=7250)ã€(2019, í—ˆì• ë¦¬)
+- ã€Œ[ì§‘$$neq$$ì„¸ê³„](http://news.karts.ac.kr/?p=8081)ã€(2020, ìž¥ìœ ë¹„)
+- ã€Œ["ëª½ìƒê³¼ ì°©ëž€"](http://news.karts.ac.kr/?p=8148)ã€(2020, ê³ ìœ ìž¬)
+- ì™¸ ë‹¤ìˆ˜ì˜ ë¬¸í™” ë° ë§¤ì²´ ê´€ë ¨ ì—ì„¸ì´ ìž‘ì„±.
+ìž¬í•™ ì¤‘ì—ëŠ” ì˜í™” ë° ë§¤ì²´ì— ì˜í•œ ê°ê° ê²½í—˜ì˜ ì„ í—˜ì  ì¡°ê±´ê³¼ 1930-40ë…„ëŒ€ ë¯¸êµ­ì˜í™”ì‚¬ë¥¼ ì¤‘ì‹¬ì ìœ¼ë¡œ íƒêµ¬.
+- ã€Œì™¸í™”ë©´ì€ ì™¸í™”ë  ìˆ˜ ìžˆëŠ”ê°€?: ìœ ì•„ë¡ ê³¼ ì •ë™ã€
+- ã€Œë©”ì¸ ì™€ ë°”ìŸì€ ì–´ë–»ê²Œ ë¹„êµë  ìˆ˜ ìžˆëŠ”ê°€?: ê³„ì—´ì²´ ê°œë…ì˜ ì§‘í•©ë¡ ì  í•¨ì˜ë¥¼ ì¤‘ì‹¬ìœ¼ë¡œã€
+- ã€Œ"Surviving Desire"(1991)ì™€ ë°ì¹´ë¥´íŠ¸ì  ì‹¬ì‹ ì´ì›ë¡ ã€
+2018ë…„ 12ì›” 29ì¼ ë¬¸í™”ì—­ì„œìš¸284 RTO "í”„ë¡œì ì…˜ í”Œëž«í¼ í”Œëž«í¼" ì˜¤ë””ì˜¤ë¹„ì£¼ì–¼ ìž‘í’ˆ ìƒì˜ í–‰ì‚¬ "ë¸”ë¼ë¸”ë¼ë¸”ë¼ì¸ë“œ"ì—ì„œ "Nebenstuck 2018" ìƒì˜.
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/298927385?h=664055076d&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
-2019³â 11¿ù 8ÀÏ ¼­ÃÌ ´õºÏ¼Ò»çÀÌ¾îÆ¼ 'ºñÆòÀÇ ºñÆò' ÅäÅ© ÆÐ³Î Âü¿©.
-¿µÈ­ ºñÆò ÇÃ·§Æû¡º¸¶Å×¸®¾Ë¡»¿¡ ºñÆò Åõ°í.
-- ¡¸[¹Ý¸é±³»ç!](https://ma-te-ri-al.online/19715640)¡¹(2019)
-- ¡¸[Á¤¸é±³»ç?](https://ma-te-ri-al.online/19715649)¡¹(2019)
+2019ë…„ 11ì›” 8ì¼ ì„œì´Œ ë”ë¶ì†Œì‚¬ì´ì–´í‹° 'ë¹„í‰ì˜ ë¹„í‰' í† í¬ íŒ¨ë„ ì°¸ì—¬.
+ì˜í™” ë¹„í‰ í”Œëž«í¼ã€Žë§ˆí…Œë¦¬ì•Œã€ì— ë¹„í‰ íˆ¬ê³ .
+- ã€Œ[ë°˜ë©´êµì‚¬!](https://ma-te-ri-al.online/19715640)ã€(2019)
+- ã€Œ[ì •ë©´êµì‚¬?](https://ma-te-ri-al.online/19715649)ã€(2019)
 
 
 ### Contact me
