@@ -5,7 +5,7 @@ permalink: /about/
 use_math: true
 ---
 
-### More Information
+###前史
 
 한국예술종합학교 영상이론과 예술사 과정 중퇴.
 김태원, 허애리, 장유비, 고유재 등의 이름으로 한국예술종합학교 신문사 기자 활동.
