@@ -2,7 +2,7 @@
 layout: post
 title: "｢논문 독법｣(2007)"
 description: "｢How to read a paper｣(2007) 번역."
-date: 2022-07-19
+date: 2022-07-18
 tags: [컴퓨터과학]
 comments: true
 share: true
