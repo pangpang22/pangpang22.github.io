@@ -1,4 +1,5 @@
 ---
+use_math: true
 layout: post
 title: "방학 계획"
 description: 방학 계획.
