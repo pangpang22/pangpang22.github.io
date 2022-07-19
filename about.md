@@ -14,7 +14,7 @@ use_math: true
 > 시적 과학(poetic sicence)을 주시오.
 > - 에이다 러브레이스
 
-### 前史
+## 前史
 
 한국예술종합학교 영상이론과 예술사 과정 중퇴.
 
@@ -40,6 +40,6 @@ use_math: true
 - 「[반면교사!](https://ma-te-ri-al.online/19715640)」(2019)
 - 「[정면교사?](https://ma-te-ri-al.online/19715649)」(2019)
 
-### 연락처
+## 연락처
 
 [jijisusu0401@pukyong.ac.kr](mailto:jijisusu0401@pukyong.ac.kr)
