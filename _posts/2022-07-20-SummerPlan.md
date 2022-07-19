@@ -17,14 +17,14 @@ published: true
 
 |주제|교재|1주|2주|3주|4주|5주|6주|
 |---|---|---|---|---|---|---|---|
-|***미적분학***|Spivak|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
-|***위상수학***|Munkres|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
-|***추상대수학***|Fraleigh|Ch0&1|Ch2&3|Ch4&5|Ch6&7|Ch8&9|Ch10|
-|***자료구조***|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|Project|
-|***컴퓨터구조***|Patterson|Ch1|Ch2|Ch3|Ch4|Ch5|Ch6|
-|***리눅스***|양주종|1-5강|6-12강|13-19강|20-26강|27-34강|35-42강|
-|***C***|Gustedt|Ch1-6|Ch7-11|Ch12-13|Ch14-15|Ch16-17|Ch18-19|
-|***네트워크보안***|Stamp|Ch1-3|Ch4-5|Ch6-7|Ch8-9|Ch10-11|Ch12-13|
+|미적분학|Spivak|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
+|위상수학|Munkres|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
+|추상대수학|Fraleigh|Ch0&1|Ch2&3|Ch4&5|Ch6&7|Ch8&9|Ch10|
+|자료구조|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|Project|
+|컴퓨터구조|Patterson|Ch1|Ch2|Ch3|Ch4|Ch5|Ch6|
+|리눅스|양주종|1-5강|6-12강|13-19강|20-26강|27-34강|35-42강|
+|C|Gustedt|Ch1-6|Ch7-11|Ch12-13|Ch14-15|Ch16-17|Ch18-19|
+|네트워크보안|Stamp|Ch1-3|Ch4-5|Ch6-7|Ch8-9|Ch10-11|Ch12-13|
 
 ---
 :books: 텍스트
