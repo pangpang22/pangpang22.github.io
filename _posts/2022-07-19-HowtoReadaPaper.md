@@ -2,10 +2,11 @@
 layout: post
 title: "｢논문 독법｣(2007)"
 description: "｢How to read a paper｣(2007) 번역."
-date: 2022-07-18
+date: 2022-07-19
 tags: [컴퓨터과학]
 comments: true
 share: true
+published: true
 ---
 *이 포스팅은 현재 케임브리지 대학교 소속 S. Keshav가 워털루 대학교 재직 시절 작성한 ｢[How to read a paper](https://dl.acm.org/doi/10.1145/1273445.1273458)｣(2007)를 번역한 것이다.*
 
