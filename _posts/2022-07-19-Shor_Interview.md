@@ -9,7 +9,9 @@ comments: true
 share: true
 published: true
 ---
+
 *이 포스팅은 '유럽 입자 물리 연구소'(CERN) '실험 물리학'(EP) 부서 뉴스레터 [Interview with Peter Shor](https://ep-news.web.cern.ch/content/interview-peter-shor)(Panos Charitos, 2021)를 번역한 것이다.*
+
 ---
 
 ![Shor1](https://ep-news.web.cern.ch/sites/default/files/styles/full_image/public/2021-03/225967_web.jpg?itok=4_Yubitr)
