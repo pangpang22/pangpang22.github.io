@@ -15,22 +15,22 @@ published: true
 ---
 :penguin: 전체 일정
 
-|주제|교재|1주|2주|3주|4주|5주|6주|
+|Subject|Text|W1|W2|W3|W4|W5|W6|
 |---|---|---|---|---|---|---|---|
-|미적분학|Spivak|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
-|위상수학|Munkres|Ch1&2|Ch3&4|Ch5&6|Ch7&8|Ch9&10|Ch11&12|
-|추상대수학|Fraleigh|Ch0&1|Ch2&3|Ch4&5|Ch6&7|Ch8&9|Ch10|
-|자료구조|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|Project|
-|컴퓨터구조|Patterson|Ch1|Ch2|Ch3|Ch4|Ch5|Ch6|
-|리눅스|양주종|1-5강|6-12강|13-19강|20-26강|27-34강|35-42강|
+|Calculus|Spivak|Ch1-5|Ch6-10|Ch11-15|Ch16-20|Ch20-25|Ch25-30|
+|LinearAlgebra|Tao|Ch1-3|Ch4&5|Ch6&7|Ch8|Ch9|Ch10|
+|NumberTheory|Burton|Ch1-4|Ch5-7|Ch8-10|Ch11&12|Ch13&14|Ch15&16|
+|DataStructures|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|Project|
+|ComputerArchitecture|Patterson|Ch1|Ch2|Ch3|Ch4|Ch5|Ch6|
+|Linux|양주종|Ch1-5|Ch6-12|Ch13-19|Ch20-26|Ch27-34|Ch35-42|
 |C|Gustedt|Ch1-6|Ch7-11|Ch12-13|Ch14-15|Ch16-17|Ch18-19|
-|네트워크보안|Stamp|Ch1-3|Ch4-5|Ch6-7|Ch8-9|Ch10-11|Ch12-13|
+|NetworkSecurity|Stamp|Ch1-3|Ch4-5|Ch6-7|Ch8-9|Ch10-11|Ch12-13|
 
 ---
 :books: 텍스트
 - Spivak, ***Calculus*** (구비): 읽고 풀기.
-- Munkres, ***Toplogy*** ([pdf](http://mathcenter.spb.ru/nikaan/2019/topology/4.pdf)): 읽고 풀기.
-- Fraleigh, ***A First Course in Abstract Algebra*** ([pdf](https://www.academia.edu/45050386/A_first_course_in_abstract_algebra_by_Fraleigh_John_B_z_lib_org_)): 읽고 풀기.
+- Tao, ***Lecture Notes on MATH 115A*** ([Link](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)): 번역하고 숙제 풀기.
+- Burton, ***Elementary Number Theory*** (구비): 읽고 풀기.
 - Cheong, ***Lecture Notes on CS206A*** ([Link](https://otfried.org/courses/cs206/)): 번역하고 프로그래밍.
 - Patterson, ***Computer Organization and Design*** ([pdf](https://www.academia.edu/27585711/Computer_Organisation_and_Design_5th_Edition)): 읽고 리서치.
 - 양주종, ***우분투 리눅스(Ubuntu) 기초 강좌*** ([youtube](https://www.youtube.com/playlist?list=PLSxm-MRGlRArFAwx-fNkKYC8IlW39Psyq)): 실습.
