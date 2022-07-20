@@ -17,8 +17,7 @@ published: true
 
 |Subject|Text|W1|W2|W3|W4|W5|W6|
 |---|---|---|---|---|---|---|---|
-|Calculus|Spivak|Ch1-5|Ch6-10|Ch11-15|Ch16-20|Ch20-25|Ch25-30|
-|LinearAlgebra|Tao|Ch1-3|Ch4&5|Ch6&7|Ch8|Ch9|Ch10|
+|GraphTheory|West|Ch1&2|Ch3&4|Ch5&6|Ch7&8|App||
 |NumberTheory|Burton|Ch1-4|Ch5-7|Ch8-10|Ch11&12|Ch13&14|Ch15&16|
 |DataStructures|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|Project|
 |ComputerArchitecture|Patterson|Ch1|Ch2|Ch3|Ch4|Ch5|Ch6|
@@ -28,8 +27,7 @@ published: true
 
 ---
 :books: 텍스트
-- Spivak, ***Calculus*** (구비): 읽고 풀기.
-- Tao, ***Lecture Notes on MATH 115A*** ([Link](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)): 번역하고 숙제 풀기.
+- West, ***Introduction to Graph Theory*** ([pdf](https://www.pdfdrive.com/introduction-to-graph-theory-douglas-b-west-e37682490.html)): 번역하기.
 - Burton, ***Elementary Number Theory*** (구비): 읽고 풀기.
 - Cheong, ***Lecture Notes on CS206A*** ([Link](https://otfried.org/courses/cs206/)): 번역하고 프로그래밍.
 - Patterson, ***Computer Organization and Design*** ([pdf](https://www.academia.edu/27585711/Computer_Organisation_and_Design_5th_Edition)): 읽고 리서치.
