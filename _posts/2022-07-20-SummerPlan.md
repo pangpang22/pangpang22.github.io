@@ -22,6 +22,7 @@ published: true
 |DataStructures|CS206A|Ch7&8|Ch9&10|Ch11&12|Ch13&14|Project|
 |ComputerArchitecture|Patterson|Ch1-3|Ch4-6|Project|Project|Project|
 |Linux|양주종|Ch1-5|Ch6-15|Ch16-26|Ch27-34|Ch35-42|
+
 ---
 :books: 텍스트
 - Tao, ***Lecture Notes on MATH 115A*** ([Link](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)): 번역과 숙제.
