@@ -36,5 +36,5 @@ published: true
 :computer: 자료구조 스터디
 - 매일 한 시간씩 투자.
 - C 자료구조/알고리즘.
-  - C는 Sedgwick, ***Algorithms in C*** ([pdf](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf)), Gustedt, ***Modern C*** ([pdf](https://hal.inria.fr/hal-02383654/file/ModernC.pdf) 참고.
+  - C는 Sedgwick, ***Algorithms in C*** ([pdf](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf)), Gustedt, ***Modern C*** ([pdf](https://hal.inria.fr/hal-02383654/file/ModernC.pdf)) 참고.
   - 이론은 Knuth, ***The Art of Computer Programming*** ([pdf](https://seriouscomputerist.atariverse.com/media/pdf/book/Art%20of%20Computer%20Programming%20-%20Volume%201%20(Fundamental%20Algorithms).pdf)) 참고.
