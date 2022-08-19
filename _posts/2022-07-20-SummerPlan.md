@@ -26,15 +26,22 @@ published: true
 ---
 :books: 텍스트
 - Tao, ***Lecture Notes on MATH 115A*** ([Link](https://www.math.ucla.edu/~tao/resource/general/115a.3.02f/)): 번역과 숙제.
+
 - Burton, ***Elementary Number Theory*** (구비): 읽고 풀기.
+
 - Cheong, ***Lecture Notes on CS206A*** ([Link](https://otfried.org/courses/cs206/)): 번역과 프로그래밍.
+
+
 - Patterson, ***Computer Organization and Design*** ([pdf](https://www.academia.edu/27585711/Computer_Organisation_and_Design_5th_Edition)): 읽고 리서치.
+
+
 - 양주종, ***우분투 리눅스(Ubuntu) 기초 강좌*** ([youtube](https://www.youtube.com/playlist?list=PLSxm-MRGlRArFAwx-fNkKYC8IlW39Psyq)): 실습.
 
 ---
 
 :computer: 자료구조 스터디
 - 매일 한 시간씩 투자.
+
 - C 자료구조/알고리즘.
   - C는 Sedgwick, ***Algorithms in C*** ([pdf](https://theswissbay.ch/pdf/Gentoomen%20Library/Algorithms/Algorithms%20in%20C.pdf)), Gustedt, ***Modern C*** ([pdf](https://hal.inria.fr/hal-02383654/file/ModernC.pdf)) 참고.
   - 이론은 Knuth, ***The Art of Computer Programming*** ([pdf](https://seriouscomputerist.atariverse.com/media/pdf/book/Art%20of%20Computer%20Programming%20-%20Volume%201%20(Fundamental%20Algorithms).pdf)) 참고.
